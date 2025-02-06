@@ -1,6 +1,6 @@
 # Hello! 👋 Welcome to Malki-Cedheq's GitHub Profile  
 
-I am pursuing a **PhD in Electronic Engineering**, specializing in **backend development, firmware, and artificial intelligence**. I have experience with various technologies for building **scalable, efficient, and high-performance systems**.
+I am pursuing a **PhD in Electronic Engineering**, specializing in **web application, backend and firmware development for computer vision and artificial intelligence solutions**. I have experience with various technologies for building **scalable, efficient, and high-performance systems**.
 
 ---
 
