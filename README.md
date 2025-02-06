@@ -28,16 +28,19 @@ I am pursuing a **PhD in Electronic Engineering**, specializing in **backend dev
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
 
 ### 🔹 Databases  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)![MariaDB](https://img.shields.io/badge/MariaDB-003B57?style=for-the-badge&logo=mariadb&logoColor=white)
 
-### 🔹 Messaging & Containers  
-![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)  
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)  
-![WebSocket](https://img.shields.io/badge/WebSocket-1D76D2?style=for-the-badge&logo=websocket&logoColor=white)  
-![Prometheus](https://img.shields.io/badge/Prometheus-0099FF?style=for-the-badge&logo=prometheus&logoColor=white)  
-![Grafana](https://img.shields.io/badge/Grafana-FF1F1F?style=for-the-badge&logo=grafana&logoColor=white)  
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+### 🔹 **Messaging & Queues**  
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)![WebSocket](https://img.shields.io/badge/WebSocket-1D76D2?style=for-the-badge&logo=websocket&logoColor=white)
+
+### 🔹 **Monitoring & Observability**  
+![Prometheus](https://img.shields.io/badge/Prometheus-0099FF?style=for-the-badge&logo=prometheus&logoColor=white)![Grafana](https://img.shields.io/badge/Grafana-FF1F1F?style=for-the-badge&logo=grafana&logoColor=white)  
+
+### 🔹 **Containers & Virtualization**  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+
+### 🔹 **Documentation**  
+![Swagger](https://img.shields.io/badge/Swagger-85C3FF?style=for-the-badge&logo=swagger&logoColor=white)
 
 ### 🔹 Artificial Intelligence & Computer Vision  
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)![MediaPipe](https://img.shields.io/badge/MediaPipe-FF9800?style=for-the-badge&logo=mediapipe&logoColor=white)  
