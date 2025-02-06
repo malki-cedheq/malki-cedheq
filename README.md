@@ -5,7 +5,7 @@ I am pursuing a **PhD in Electronic Engineering**, specializing in **backend dev
 ---
 
 ## 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=malki-cedheq&layout=compact&langs_count=6&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=malki-cedheq&langs_count=10&theme=gruvbox)
 
 ---
 
