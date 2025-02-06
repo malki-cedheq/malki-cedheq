@@ -31,7 +31,13 @@ I am pursuing a **PhD in Electronic Engineering**, specializing in **backend dev
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
 
 ### 🔹 Messaging & Containers  
-![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)  
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)  
+![WebSocket](https://img.shields.io/badge/WebSocket-1D76D2?style=for-the-badge&logo=websocket&logoColor=white)  
+![Prometheus](https://img.shields.io/badge/Prometheus-0099FF?style=for-the-badge&logo=prometheus&logoColor=white)  
+![Grafana](https://img.shields.io/badge/Grafana-FF1F1F?style=for-the-badge&logo=grafana&logoColor=white)  
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
 
 ### 🔹 Artificial Intelligence & Computer Vision  
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)![MediaPipe](https://img.shields.io/badge/MediaPipe-FF9800?style=for-the-badge&logo=mediapipe&logoColor=white)  
